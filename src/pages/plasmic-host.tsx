@@ -7,7 +7,7 @@ import { initPlasmicLoaderWithRegistrations } from "../plasmic-init"
 
 export const query = graphql`
   query {
-    plasmicOptions
+    plasmicOptions 
   }
 `
 
